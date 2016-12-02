@@ -1,0 +1,11 @@
+{
+	"title"		:	"Hax gun",
+	"type"		:	"weapon",
+	"tags"		:	[ "fun", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
